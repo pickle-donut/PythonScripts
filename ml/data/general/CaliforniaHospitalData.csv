@@ -1,0 +1,62 @@
+HospitalID,Name,Zip,Website,TypeControl,Teaching,DonorType,NoFTE,NetPatRev,InOperExp,OutOperExp,OperRev,OperInc,AvlBeds
+45740,Mammoth Hospital,93546-0660,www.mammothhospital.com,District,Small/Rural,Charity,327,135520.2186,20523425.53,34916220.47,49933713,-5505933,15
+12145,Victor Valley Community Hospital,92392,www.vvch.org,Non Profit,Small/Rural,Charity,345,136156.6913,33447542.78,20348596.22,53351748,-444391,99
+25667,Pioneers Memorial Hospital,92227,www.pmhd.org,District,Small/Rural,Charity,601.2,197094.2541,37254178.67,37832448.33,72933707,-2152920,107
+46996,Ridgecrest Regional Hospital,93555,www.rrh.org,Non Profit,Small/Rural,Charity,400,139170.3798,23385570.1,24661355.9,51087341,3040415,55
+37393,Barstow Community Hospital,92311,www.barstowhospital.com,Investor,Small/Rural,Charity,262,116797.8306,13684502.49,15159986.51,42845642,14001153,42
+17741,St. Elizabeth Community Hospital,96080,redbluff.mercy.org/index.htm,Non Profit,Small/Rural,Charity,397.5,232503.0191,36682888.7,36739260.3,85808509,12386360,66
+20277,Ukiah Valley Medical Center,95482,www.uvmc.org,Non Profit,Small/Rural,Charity,503.5,214516.4481,32709222.65,43571851.35,79005075,2724001,65
+45736,Mountains Community Hospital,92352,www.mchcares.com,District,Small/Rural,Charity,158,30786.19672,5733926.902,10727445.1,11947133,-4514239,35
+29823,Colusa Regional Medical Center,95932-2954,www.colusamedicalcenter.org,Non Profit,Small/Rural,Charity,168,51726.4918,9022366.447,10402509.55,19445901,21025,48
+13738,St. Mary Medical Center,92307-2206,www.stmary4health.com,Non Profit,Small/Rural,Charity,1216,540975.1175,125128283.3,66801544.65,199873795,7943967,186
+38798,Goleta Valley Cottage Hospital,93111,www.sbch.org,Non Profit,Small/Rural,Charity,288,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+46348,Barton Memorial Hospital,96150,www.bartonhealth.org,Non Profit,Small/Rural,Charity,750,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+33207,Memorial Hospital - Los Banos,93635-3419,www.memoriallosbanos.org,Non Profit,Small/Rural,Charity,235,105166.8934,15065967.36,23338063.64,39282960,878929,48
+44817,Fairchild Medical Center,96097-3450,www.fairchildmed.org,Non Profit,Small/Rural,Charity,250,108162.9126,14859739.23,23623658.77,40140721,1657323,25
+17718,Mercy Medical Center - Mount Shasta,96067,www.mercymtshasta.org,Non Profit,Small/Rural,Charity,215.5,123480.2705,22003500.15,22410053.85,45769108,1355554,60
+33283,Sutter Lakeside Hospital,95453-6112,www.sutterlake.org,Non Profit,Small/Rural,Charity,353,173227.4863,28647611.24,39621438.76,64464737,-3804313,25
+20231,Hanford Community Medical Center,93230-3513,www.hanfordhealth.com,Non Profit,Small/Rural,Charity,777,363127.5956,53704666.43,70582081.57,134067466,9780718,121
+46985,Tahoe Forest Hospital District,96161,www.tfhd.com,District,Small/Rural,Charity,374.32,209348.9426,34782311,48159490,83034898,93097,62
+37043,Colorado River Medical Center,92363,coloradorivermedical.org,Investor,Small/Rural,Charity,75,33593.68306,2309239.599,3787718.401,12295288,6198330,25
+46342,Coalinga Regional Medical Center,93210,www.coalingamedicalcenter.com,District,Small/Rural,Charity,160,65792.42623,15341310.03,7916539.968,24164520,906670,131
+33242,Sutter Amador Hospital,95642-2379,www.sutteramador.com,Non Profit,Small/Rural,Charity,318,161745.224,30646705.07,30277613.93,59669536,-1254783,42
+33251,Sutter Coast Hospital,95531-8359,www.suttercoast.org,Non Profit,Small/Rural,Charity,363,172398.8579,22781278.48,38582723.52,63398216,2034214,59
+13722,Redwood Memorial Hospital,95540,www.stjosepheureka.org,Non Profit,Small/Rural,Charity,193,103189.4044,14252309.04,18158329.96,37957024,5546385,35
+17700,Mark Twain St. Josephs Hospital,95249,www.marktwainhospital.com,Non Profit,Small/Rural,Charity,236.5,116609.8169,17857498.72,22701126.28,43342578,2783953,26
+20225,Frank R. Howard Memorial Hospital,95490-4225,www.howardhospital.com,Non Profit,Small/Rural,Charity,226,94015.90984,17300751.23,14392070.77,34945064,3252242,25
+37285,Twin Cities Community Hospital,93465,www.twincitieshospital.com,Investor,Small/Rural,Charity,359,240737.9563,53252019.74,22922297.26,88495493,12321176,84
+20266,Sonora Regional Medical Center - greenley,95370,www.sonorahospital.org,Non Profit,Small/Rural,Charity,779,367540.6639,68228848.83,69968859.17,139302913,1105205,152
+37436,Fallbrook Hospital,92028,www.fallbrookhospital.com,District,Small/Rural,Charity,501,108960.418,23001687.34,14727466.66,40329849,2600695,146
+17736,Sierra Nevada Memorial Hospital,95945,www.snmh.org,Non Profit,Small/Rural,Charity,524.5,295579.235,56692825.1,50264174.9,109748000,2791000,121
+38802,Santa Ynez Valley Cottage Hospital,93463,www.sbch.org,Non Profit,Small/Rural,Charity,67,28773.45355,1780969.018,8235087.982,10751114,735057,20
+45067,Glenn Medical Center,95988-2745,www.glennmed.org,Non Profit,Small/Rural,Charity,100,29712.3306,2076879.134,9501694.866,11932140,353566,15
+46844,Palm Drive Hospital,95472,www.palmdrivehospital.com,District,Small/Rural,Charity,191,61816.75956,13613286.65,14261284.35,22745333,-5129238,28
+28283,Hi-Desert Medical Center,92252,www.hdmc.org,District,Small/Rural,Charity,451.5,145733.5765,31842679.16,21184931.84,53619042,591431,179
+11875,San Gorgonio Memorial Hospital,92220,www.sgmh.org,District,Small/Rural,Charity,259,14313.04918,6184049.707,4181151.293,5303740,-5061461,77
+22181,Marshall Hospital,95667,www.marshallmedical.org,Non Profit,Small/Rural,Charity,900,404802.8279,81584337.68,75492249.32,149225726,-7850861,102
+34959,Biggs-Gridley Memorial Hospital,95948,www.frhg.org,Non Profit,Small/Rural,Charity,170,40498.73497,8513820.328,7888571.672,15294215,-1108177,45
+28812,Oak Valley District Hospital,95361,www.oakvalleycares.org,District,Small/Rural,Charity,503,137280.7104,19495615.83,29846903.17,50915214,1572695,150
+43437,Southern Inyo Hospital,93545-1009,www.sihd.org,District,Small/Rural,Charity,121,17566.92896,2890228.445,4578887.555,6677960,-791156,37
+45771,Eastern Plumas Hospital - Portola Campus,96122-9406,www.ephc.org,District,Small/Rural,Charity,219,52983.85792,8074272.754,12996071.25,19484351,-1585993,76
+46838,Modoc Medical Center,96101,www.modocmedicalcenter.com,City/County,Small/Rural,Charity,170,26260.51366,4705385.115,8679873.885,9821366,-3563893,87
+44982,Healdsburg District Hospital,95448-3382,www.nschd.org,District,Small/Rural,Charity,150,64759.03825,10963429.49,14259517.51,23993709,-1229238,38
+43353,Catalina Island Medical Center,90704,www.catalinaislandmedicalcenter.org,Non Profit,Small/Rural,Charity,55,14172.24044,1436470.704,3989894.296,5235317,-191048,12
+10767,Kern Valley Hospital,93240-9529,www.kvhd.org,District,Small/Rural,Charity,159,57728.56284,10131249.89,11391720.11,21343696,-179274,99
+19868,Ojai Valley Community Hospital,93023-3163,www.cmhhospital.org,Non Profit,Small/Rural,Charity,180,59504.62295,11955296.77,10326804.23,22492281,210180,103
+39076,UC Irvine Medical Center,92868,www.healthcare.uci.edu,Non Profit,Teaching,Alumni,3151,1476284.836,380582272.4,117664293.6,552107524,53860958,363
+17757,St. Marys Medical Center - san francisco,94117,www.stmarysmedicalcenter.org,Non Profit,Teaching,Alumni,871.5,503894.9617,134478569.3,56055091.67,193344412,2810751,234
+34454,LAC USC Medical Center,90033,www.ladhs.org,City/County,Teaching,Alumni,6753,2070024.44,827311396.9,274160384.1,780308445,-321163336,715
+26206,Arrowhead Regional Medical Center,92324,www.arrowheadmedcenter.org,City/County,Teaching,Alumni,2554,723744.8169,250464082,140295929,270810707,-119949304,353
+22598,Kern Medical Center,93305,www.kernmedicalcenter.com,City/County,Teaching,Alumni,1850,500659.6913,173745016.7,93066706.34,185789682,-81022041,211
+36569,Riverside County Regional Medical Center,92555-3911,www.rcrmc.org,City/County,Teaching,Alumni,2403,968917.4973,272301253.5,105600423.5,383631414,5729737,373
+21053,Santa Clara Valley Medical Center,95128,www.scvmed.org,City/County,Teaching,Alumni,5314,1665619.301,543651243.9,394890175.1,624540818,-314000601,523
+29805,Alameda Hospital,94501,www.alamedahospital.org,City/County,Teaching,Alumni,450,1021054.09,302789256.3,142325346.7,463893926,18779323,453
+35512,Community Regional Medical Center,93721-1324,www.communitymedical.org,Non Profit,Teaching,Alumni,3500,1710382.423,414994752.2,207990670.8,643041802,20056379,606
+39050,UC Davis Medical Center,95817-2282,www.ucdmc.ucdavis.edu,Non Profit,Teaching,Alumni,6525,2901254.511,727291813.6,288075685.4,1069148717,53781218,563
+39102,UCSD Medical Center - Hillcrest,92103-8970,www.health.ucsd.edu,Non Profit,Teaching,Alumni,3892,2428730.281,462934124.3,332127550.7,941108780,146047105,527
+39110,UCSF Medical Center,94143,www.ucsfhealth.org,Non Profit,Teaching,Alumni,6062,4168988.809,982500473.3,518309865.7,1549426466,48616127,658
+32930,Scripps Mercy Hospital,92103,www.scrippshealth.org,Non Profit,Teaching,Alumni,2814,1321031.801,379102920.9,106430168.1,491523782,5990693,530
+31032,Long Beach Memorial & Miller Childrens Hospital,90806,www.memorialcare.org,Non Profit,Teaching,Alumni,5218,1187021.872,291248099.9,109328611.1,439084836,38508125,462
+22460,Stanford Hospital & Clinics,94305,stanfordhospital.org,Non Profit,Teaching,Alumni,6392,4333934.423,928962114.3,662155885.7,1650391999,59273999,445
+33192,California Pacific Medical Center - Pacific Campus,94115,www.cpmc.org,Non Profit,Teaching,Alumni,1565.1,2736281.415,633790340.1,296020659.9,1074256998,144445998,730
+38900,Cedars-Sinai Medical Center,90048,www.csmc.edu,Non Profit,Teaching,Alumni,8000,4662581.617,1285631166,461675838.2,1912179417,164872413,909
